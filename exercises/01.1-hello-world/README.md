@@ -1,8 +1,8 @@
 # `01.1` Hello World
 
-Today's bigest pain for front-end developers is **working with the DOM** for create dynamic HTML, something that React.js does best.
+Today's biggest pain for front-end developers is **working with the DOM** for creating dynamic HTML, something that React.js does best.
 
-React.js it's a rendering library made to optimize the DOM: Developers save time the browser is faster.
+React.js it's a rendering library made to optimize the DOM: Developers save time. The browser is faster.
 
 The library comes with a function called **ReactDOM.render** that you can see like a replacement for the classic [innerHTML property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp).
 
